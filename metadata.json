@@ -1,0 +1,6 @@
+{
+  "name": "AlphaShapes 3D - Kids Alphabet & Shapes Game",
+  "description": "A colorful 3D educational game for children to learn English alphabets (A-Z) and 2D/3D shapes through interactive 3D models, matching games, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
